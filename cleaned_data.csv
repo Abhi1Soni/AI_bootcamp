@@ -1,0 +1,6 @@
+Name,Age,Email,Marks,Username,Valid_Email
+Aman,21.0,aman@gmail.com,85.0,aman,True
+Rahul,22.0,rahul@gmail.com,90.0,rahul,True
+Priya,22.5,priya@gmail.com,84.75,priya,True
+Ankit,24.0,ankit@gmail.com,76.0,ankit,True
+,23.0,student@gmail.com,88.0,student,True
